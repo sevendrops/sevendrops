@@ -24,7 +24,7 @@
 
 </div>
 
-# Hi there 👋 I'm Xinghan
+# Hi there 👋 I'm Xinghan (Albert)
 
 🎓 Master of Business Analytics @ University of Auckland  
 📊 Data Analyst | SQL | Python | PowerBI  
@@ -39,5 +39,5 @@
 - Data Analysis & Visualization  
 
 ## 📫 Contact
-- Email: your@email.com
-- LinkedIn: your link
+- Email: xinghan.li@qq.como
+- LinkedIn: https://www.linkedin.com/in/albert-li-bb8a90225/
