@@ -15,5 +15,5 @@
 - Data Analysis & Visualization  
 
 ## 📫 Contact
-- Email: xinghan.li@qq.como
+- Email: xinghan.li@qq.com
 - LinkedIn: https://www.linkedin.com/in/albert-li-bb8a90225/
